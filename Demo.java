@@ -7,5 +7,8 @@ class Demo{
     int a = 5+3;
     System.out.println(a);
     
+    int b = 5-3;
+    System.out.println(b);
+    
   }
 }
